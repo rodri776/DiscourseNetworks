@@ -18,4 +18,5 @@ Some slight modifications (such as file path) must be made before using the code
 **CommunityOfInterest** -- Created a table of the mean shortest path from each community to the topics of interest (TOIs) to see which community is most related to each TOI. <br />
 **TempCommDect** -- Same as CommunityDetection, but for all months, and only generates the data Vis <br />
 
-*Experiment1-4 (ReadMe Soon)*
+Experiment -- Tried using DynComm package, did not work <br />
+*Experiment2-4 (ReadMe Soon)*
